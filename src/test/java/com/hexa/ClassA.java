@@ -18,6 +18,11 @@ public class ClassA {
 		System.out.println("14");
 
 	}
-	
+	private void method5() {
+		System.out.println("14");
+
+	}
+
+
 
 }
